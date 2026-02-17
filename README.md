@@ -1,8 +1,9 @@
+[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
 ![IBM](https://img.shields.io/badge/IBM-Certification-052FAD?logo=ibm)
 ![Course](https://img.shields.io/badge/Course-Data%20Science-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
+
 
 # IBM Python for Data Science, AI and Development
 # <p id="Course_Certificate" align="center">
@@ -74,4 +75,4 @@ Checkout some awesome hands-on project– applied machine learning, analytics, a
 
 ## Certification
 
-Verify the certifiction [here](https://www.coursera.org/account/accomplishments/certificate/11IJQCYMNYQP)
+Verify the certifiction [here]([https://www.coursera.org/account/accomplishments/certificate/11IJQCYMNYQP](https://www.coursera.org/account/accomplishments/verify/11IJQCYMNYQP))
