@@ -75,4 +75,4 @@ Checkout some awesome hands-on project– applied machine learning, analytics, a
 
 ## Certification
 
-Very the certifiction (here)[https://www.coursera.org/account/accomplishments/certificate/11IJQCYMNYQP]
+Verify the certifiction [here](https://www.coursera.org/account/accomplishments/certificate/11IJQCYMNYQP)
