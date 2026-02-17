@@ -67,9 +67,9 @@ REST API interaction using the requests library, JSON parsing, and web scraping 
 This certification reinforces foundational Python proficiency aligned with data analysis and data engineering workflows.
 
 Checkout some awesome hands-on project– applied machine learning, analytics, and large scale data processing projects implemented in Python here: 
-[Clash Royale Game Data Analysis](https://github.com/rishi-analytics/Clash_Royale_Game_Analysis/blob/main/Copy_of_Clash_Royale_Data_Intern_Test.ipynb)
-[ESG Analysis Using Python](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/blob/main/ESG_Data_Analysis.ipynb)
-[Machine Learning with PySpark](https://github.com/rishi-analytics/Machine-Learning-With-PySpark)
+-[Clash Royale Game Data Analysis](https://github.com/rishi-analytics/Clash_Royale_Game_Analysis/blob/main/Copy_of_Clash_Royale_Data_Intern_Test.ipynb)
+-[ESG Analysis Using Python](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/blob/main/ESG_Data_Analysis.ipynb)
+-[Machine Learning with PySpark](https://github.com/rishi-analytics/Machine-Learning-With-PySpark)
 
 ---
 
