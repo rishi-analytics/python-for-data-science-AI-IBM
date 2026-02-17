@@ -62,7 +62,7 @@ Checkout some awesome hands-on project made by me– Applied analytics, machine 
 
 - [Clash Royale Game Data Analysis](https://github.com/rishi-analytics/Clash_Royale_Game_Analysis/blob/main/Copy_of_Clash_Royale_Data_Intern_Test.ipynb)
 - [ESG Analysis Using Python](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/blob/main/ESG_Data_Analysis.ipynb)
-- [Machine Learning with PySpark]([https://github.com/rishi-analytics/Machine-Learning-With-PySpark](https://github.com/rishi-analytics/Machine-Learning-With-PySpark/blob/main/Machine_Learning_With_PySpark.ipynb))
+- [Machine Learning with PySpark](https://github.com/rishi-analytics/Machine-Learning-With-PySpark/blob/main/Machine_Learning_With_PySpark.ipynb)
 
 ---
 
