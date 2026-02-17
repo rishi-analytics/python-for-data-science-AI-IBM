@@ -14,14 +14,6 @@
 
 ## Overview
 
-This repository demonstrates foundational Linux command line and Bash scripting skills applied to a real-world automation scenario.
-
-The core project implements an automated backup system that identifies files modified within the last 24 hours, archives them, and schedules execution using cron.
-
----
-
-## Overview
-
 This repository documents completion of the IBM *Python for Data Science, AI and Development* course and summarizes the core Python competencies reinforced through structured coursework and hands on exercises.
 
 The focus of this repository is competency documentation rather than standalone project development.
