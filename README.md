@@ -1,3 +1,4 @@
+# IBM Python for Data Science, AI and Development
 [![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
 ![IBM](https://img.shields.io/badge/IBM-Certification-052FAD?logo=ibm)
@@ -5,10 +6,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-# IBM Python for Data Science, AI and Development
+
 # <p id="Course_Certificate" align="center">
 
-<img src="course-file/course-certificate.png"  width="1000"  height="800">
+<img src="course-file/course-certificate.png"  width="600"  height="600">
     
 </p>
 
